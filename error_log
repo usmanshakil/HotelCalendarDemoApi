@@ -1,0 +1,114 @@
+[25-May-2021 10:27:29 America/Boise] PHP Warning:  Use of undefined constant roomId - assumed 'roomId' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 35
+[25-May-2021 10:27:29 America/Boise] PHP Warning:  Use of undefined constant roomId - assumed 'roomId' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 35
+[25-May-2021 10:27:29 America/Boise] PHP Warning:  Use of undefined constant roomId - assumed 'roomId' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 35
+[25-May-2021 10:27:29 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/dexterod/public_html/hotel_api/index.php:35) in /home1/dexterod/public_html/hotel_api/index.php on line 68
+[25-May-2021 10:57:39 America/Boise] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/dexterod/public_html/hotel_api/index.php on line 48
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Use of undefined constant object - assumed 'object' (this will throw an Error in a future version of PHP) in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:39:19 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/dexterod/public_html/hotel_api/index.php:44) in /home1/dexterod/public_html/hotel_api/index.php on line 79
+[25-May-2021 11:46:57 America/Boise] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home1/dexterod/public_html/hotel_api/index.php:44
+Stack trace:
+#0 {main}
+  thrown in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:47:05 America/Boise] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home1/dexterod/public_html/hotel_api/index.php:44
+Stack trace:
+#0 {main}
+  thrown in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:47:26 America/Boise] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home1/dexterod/public_html/hotel_api/index.php:44
+Stack trace:
+#0 {main}
+  thrown in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:49:19 America/Boise] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home1/dexterod/public_html/hotel_api/index.php:44
+Stack trace:
+#0 {main}
+  thrown in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:54:36 America/Boise] PHP Fatal error:  Cannot use [] for unsetting in /home1/dexterod/public_html/hotel_api/index.php on line 44
+[25-May-2021 11:55:17 America/Boise] PHP Fatal error:  Cannot use [] for unsetting in /home1/dexterod/public_html/hotel_api/index.php on line 44
